@@ -1,0 +1,16 @@
+{
+  "keys": [
+    {
+      "crv": "P-256",
+      "d": "8yWxWgX3LGiO641rSIH4WGUGrHRS_5oEktu1qymMbnk",
+      "ext": true,
+      "key_ops": [
+        "sign"
+      ],
+      "kid": "n03y0bARhO7erWorMe2xISiXtmTNioESwiwuo4RM6dw",
+      "kty": "EC",
+      "x": "tMhegImqwNRZIjV3sB4P1YYDqCOGfaXFCFy7hB5uUJE",
+      "y": "g0LBSkHtM7LmoB0KilZ2NX1UVJDeJI6SJcrfkcdzNyE"
+    }
+  ]
+}
